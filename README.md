@@ -4,7 +4,7 @@
 - https://shell.cloud.google.com
 Написать следующие команды:
 
- -git clone https://github.com/MrPikathy/DDoSMrPikathy.git
+- git clone https://github.com/MrPikathy/DDoSMrPikathy.git
 - ls
 - cd DDoSMrPikathy
 - pip3 install icmplib requests pysocks cfscrape scapy
