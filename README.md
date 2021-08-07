@@ -2,6 +2,7 @@
 Данный скрипт не мой но он мной изменен
 Для работы данного скрипта вам нужно будет перейти на бесплатный SHELL
 - https://shell.cloud.google.com
+
 Написать следующие команды:
 
 - git clone https://github.com/MrPikathy/DDoSMrPikathy.git
