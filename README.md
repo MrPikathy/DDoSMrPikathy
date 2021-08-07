@@ -8,7 +8,7 @@
 - git clone https://github.com/MrPikathy/DDoSMrPikathy.git
 - ls
 - cd DDoSMrPikathy
-- pip3 install icmplib requests pysocks cfscrape scapy
+- pip3 install -r requirements.txt
 - python3 start.py
 
 Запуск ддоса:
